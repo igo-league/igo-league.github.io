@@ -1,0 +1,9 @@
+title: 女子囲碁リーグ
+email: 
+url: "https://igo-league.github.io/"
+description: 
+theme: 
+show_downloads: false
+google_analytics: 
+gems:
+  - jekyll-seo-tag
